@@ -19,13 +19,17 @@ An interactive Power BI dashboard analyzing **50,000+ rows** and **17 columns** 
 
 ### 📸 Screenshots
 
-> *(Add your dashboard screenshots here)*
+Dashboard View
 
-Dashboard Overview
+<img width="1638" height="908" alt="Zomato-restaurant-analysis-SS1" src="https://github.com/user-attachments/assets/5e12109d-b232-459e-a733-f65625d95779" />
 
-```
-<img width="1884" alt="Zomato-Dashboard-Overview" src="YOUR_IMAGE_URL" />
-```
+Dashboard View - Restaurants Type - Delivery Based
+
+<img width="1636" height="911" alt="Zomato-restaurant-analysis-SS2" src="https://github.com/user-attachments/assets/5db1fc4d-798a-4a7d-a7db-6ed0abe12d15" />
+
+Cleaned Dataset
+
+<img width="1907" height="1084" alt="Zomato-restaurant-analysis-cleaned-dataset-SS" src="https://github.com/user-attachments/assets/f37cbaf1-51b6-4792-b583-b7d1551abc59" />
 
 ---
 
