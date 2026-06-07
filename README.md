@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing **50,000+ rows** and **17 columns** 
 
 ---
 
-### 🚀 Features
+###  Features
 
 - **Restaurant Type Filtering** — Explore across 7 types: Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & Nightlife, Pubs and Bars
 - **Cuisine Slicer** — Filter by 10+ cuisine combinations including Biryani, North Indian, Chinese, Continental, and more
@@ -17,7 +17,7 @@ An interactive Power BI dashboard analyzing **50,000+ rows** and **17 columns** 
 
 ---
 
-### 📸 Screenshots
+###  Screenshots
 
 Dashboard View
 
@@ -33,7 +33,7 @@ Cleaned Dataset
 
 ---
 
-### 📁 File Structure
+###  File Structure
 
 ```
 Zomato-Restaurants-Analysis-Dashboard.pbix
@@ -44,7 +44,7 @@ Zomato-Restaurants-Analysis-Dashboard.pbix
 
 ---
 
-### 🛠️ Tools & Techniques Used
+###  Tools & Techniques Used
 
 | Tool/Feature | Purpose |
 |---|---|
@@ -60,7 +60,7 @@ Zomato-Restaurants-Analysis-Dashboard.pbix
 
 ---
 
-### 📊 Key Insights & Business Decisions
+###  Key Insights & Business Decisions
 
 - Analyzed **50,000+ restaurant records** across **17 attributes** including name, location, cuisine, rating, votes, bill amount, and service type
 - Avg customer rating across all restaurants stands at **3.70 / 5.0**, indicating moderate satisfaction with significant room for quality improvement
@@ -74,7 +74,7 @@ Zomato-Restaurants-Analysis-Dashboard.pbix
 
 ---
 
-### 💡 How to Use
+###  How to Use
 
 - Download the `.pbix` file
 - Open in **Power BI Desktop** (free download from Microsoft)
@@ -86,7 +86,7 @@ Zomato-Restaurants-Analysis-Dashboard.pbix
 
 ---
 
-### 📂 Dataset
+###  Dataset
 
 - **Source:** [Kaggle — Zomato Restaurants Dataset](https://www.kaggle.com/)
 - **Rows:** 50,000+
